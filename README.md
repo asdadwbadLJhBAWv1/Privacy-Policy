@@ -1,4 +1,4 @@
-# Privacy Policy for Bahnhof
+# Privacy Policy for Pulse
 
 This Privacy Policy governs the collection, use, and sharing of personal information by Pulse, a Discord bot developed by Mike. By using Pulse, you agree to the terms of this Privacy Policy.
 
